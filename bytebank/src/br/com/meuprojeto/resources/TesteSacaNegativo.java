@@ -1,6 +1,6 @@
 package br.com.meuprojeto.resources;
 
-public class TesteSacaNeagivo {
+public class TesteSacaNegativo {
 	public static void main(String[] args) {
 		Conta conta = new Conta(6646,969060);
 		conta.deposita(100);
